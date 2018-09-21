@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5ffc6125f28c831e8838076f5549660b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7544620efad08b884d2b5e08e0d81417\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62314361cc3430661156be381e2c50ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7557b5db1bdb7f67cfbf8519dfd7f09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\85a95857113c346c9b27bffebacccc41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bf152769627363a53d770c6f0e8e0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d23ecfae5a48573838d4ae7043a14b83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\34ebb20416db3e8dabdb41c9e697d52e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\e917626f981ce0bd2a15485b1a1f2f95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\88c68306936786a7b63cd5e9bd9d51d6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e5c68e92e44c869d475ee07940bb7aee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\83169341d2a7f6742427e3deef54f5e0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\beecbc52b02ac7fa70148387927a5482\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f1153f96b47b237b162af808a2e9ea3c\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\21a4e6721ad95f33f3f0b7576f3250a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\25a5a7207c8c74141e873f2f0f02af01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\860a8f747422be96394d01a14f9df297\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45d65919e4c87de5b8ccd261a74e773a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3ee77cccd57edfc30209b7c9342825bf\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\beecbc52b02ac7fa70148387927a5482\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\beecbc52b02ac7fa70148387927a5482\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f1153f96b47b237b162af808a2e9ea3c\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f1153f96b47b237b162af808a2e9ea3c\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.sampleflatlist.MainActivity
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\d34f958d3d158c48193e39ea916f2181\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5ffc6125f28c831e8838076f5549660b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5ffc6125f28c831e8838076f5549660b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7544620efad08b884d2b5e08e0d81417\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7544620efad08b884d2b5e08e0d81417\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62314361cc3430661156be381e2c50ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62314361cc3430661156be381e2c50ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7557b5db1bdb7f67cfbf8519dfd7f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7557b5db1bdb7f67cfbf8519dfd7f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\85a95857113c346c9b27bffebacccc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\85a95857113c346c9b27bffebacccc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bf152769627363a53d770c6f0e8e0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bf152769627363a53d770c6f0e8e0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d23ecfae5a48573838d4ae7043a14b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d23ecfae5a48573838d4ae7043a14b83\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\34ebb20416db3e8dabdb41c9e697d52e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\34ebb20416db3e8dabdb41c9e697d52e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\e917626f981ce0bd2a15485b1a1f2f95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\e917626f981ce0bd2a15485b1a1f2f95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\88c68306936786a7b63cd5e9bd9d51d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\88c68306936786a7b63cd5e9bd9d51d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e5c68e92e44c869d475ee07940bb7aee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e5c68e92e44c869d475ee07940bb7aee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\83169341d2a7f6742427e3deef54f5e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\83169341d2a7f6742427e3deef54f5e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\beecbc52b02ac7fa70148387927a5482\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\beecbc52b02ac7fa70148387927a5482\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\21a4e6721ad95f33f3f0b7576f3250a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\21a4e6721ad95f33f3f0b7576f3250a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\25a5a7207c8c74141e873f2f0f02af01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\25a5a7207c8c74141e873f2f0f02af01\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\860a8f747422be96394d01a14f9df297\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\860a8f747422be96394d01a14f9df297\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45d65919e4c87de5b8ccd261a74e773a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45d65919e4c87de5b8ccd261a74e773a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3ee77cccd57edfc30209b7c9342825bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\caratred\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3ee77cccd57edfc30209b7c9342825bf\AndroidManifest.xml:20:5-44
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\ReactNetive_Work\SampleFlatList\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
